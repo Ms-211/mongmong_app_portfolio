@@ -1,0 +1,317 @@
+[
+  {
+    "menu_name": "아이스티",
+    "category": "음료",
+    "sub_category": "논커피",
+    "price": 3000,
+    "image_file": "demo_menu.png"
+  },
+  {
+    "menu_name": "초코라떼",
+    "category": "음료",
+    "sub_category": "논커피",
+    "price": 3500,
+    "image_file": "demo_menu.png"
+  },
+  {
+    "menu_name": "그린티라떼",
+    "category": "음료",
+    "sub_category": "논커피",
+    "price": 4000,
+    "image_file": "demo_menu.png"
+  },
+  {
+    "menu_name": "살구밀크티",
+    "category": "음료",
+    "sub_category": "논커피",
+    "price": 4500,
+    "image_file": "demo_menu.png"
+  },
+  {
+    "menu_name": "바나나라떼",
+    "category": "음료",
+    "sub_category": "논커피",
+    "price": 5000,
+    "image_file": "demo_menu.png"
+  },
+  {
+    "menu_name": "딸기라떼",
+    "category": "음료",
+    "sub_category": "논커피",
+    "price": 5500,
+    "image_file": "demo_menu.png"
+  },
+  {
+    "menu_name": "블루레몬에이드",
+    "category": "음료",
+    "sub_category": "에이드",
+    "price": 3000,
+    "image_file": "demo_menu.png"
+  },
+  {
+    "menu_name": "자몽에이드",
+    "category": "음료",
+    "sub_category": "에이드",
+    "price": 3500,
+    "image_file": "demo_menu.png"
+  },
+  {
+    "menu_name": "청포도에이드",
+    "category": "음료",
+    "sub_category": "에이드",
+    "price": 4000,
+    "image_file": "demo_menu.png"
+  },
+  {
+    "menu_name": "체리콕",
+    "category": "음료",
+    "sub_category": "에이드",
+    "price": 4500,
+    "image_file": "demo_menu.png"
+  },
+  {
+    "menu_name": "아메리카노",
+    "category": "음료",
+    "sub_category": "커피",
+    "price": 5000,
+    "image_file": "demo_menu.png"
+  },
+  {
+    "menu_name": "카페라떼",
+    "category": "음료",
+    "sub_category": "커피",
+    "price": 5500,
+    "image_file": "demo_menu.png"
+  },
+  {
+    "menu_name": "바닐라라떼",
+    "category": "음료",
+    "sub_category": "커피",
+    "price": 3000,
+    "image_file": "demo_menu.png"
+  },
+  {
+    "menu_name": "디카페인 콜드브루",
+    "category": "음료",
+    "sub_category": "커피",
+    "price": 3500,
+    "image_file": "demo_menu.png"
+  },
+  {
+    "menu_name": "디카페인 콜드브루 라떼",
+    "category": "음료",
+    "sub_category": "커피",
+    "price": 4000,
+    "image_file": "demo_menu.png"
+  },
+  {
+    "menu_name": "얼그레이 티",
+    "category": "음료",
+    "sub_category": "티",
+    "price": 4500,
+    "image_file": "demo_menu.png"
+  },
+  {
+    "menu_name": "오렌지 블루 민트 티",
+    "category": "음료",
+    "sub_category": "티",
+    "price": 5000,
+    "image_file": "demo_menu.png"
+  },
+  {
+    "menu_name": "캐모마일 티",
+    "category": "음료",
+    "sub_category": "티",
+    "price": 5500,
+    "image_file": "demo_menu.png"
+  },
+  {
+    "menu_name": "플레인 요거트 스무디",
+    "category": "음료",
+    "sub_category": "스무디",
+    "price": 3000,
+    "image_file": "demo_menu.png"
+  },
+  {
+    "menu_name": "망고 요거트 스무디",
+    "category": "음료",
+    "sub_category": "스무디",
+    "price": 3500,
+    "image_file": "demo_menu.png"
+  },
+  {
+    "menu_name": "블루베리 요거트 스무디",
+    "category": "음료",
+    "sub_category": "스무디",
+    "price": 4000,
+    "image_file": "demo_menu.png"
+  },
+  {
+    "menu_name": "펩시 콜라",
+    "category": "음료",
+    "sub_category": "캔음료",
+    "price": 4500,
+    "image_file": "demo_menu.png"
+  },
+  {
+    "menu_name": "제로 펩시",
+    "category": "음료",
+    "sub_category": "캔음료",
+    "price": 5000,
+    "image_file": "demo_menu.png"
+  },
+  {
+    "menu_name": "스프라이트",
+    "category": "음료",
+    "sub_category": "캔음료",
+    "price": 5500,
+    "image_file": "demo_menu.png"
+  },
+  {
+    "menu_name": "웰치스 포도맛",
+    "category": "음료",
+    "sub_category": "캔음료",
+    "price": 3000,
+    "image_file": "demo_menu.png"
+  },
+  {
+    "menu_name": "눈꽃 돼지바 빙수",
+    "category": "음식",
+    "sub_category": "눈꽃 빙수",
+    "price": 3500,
+    "image_file": "demo_menu.png"
+  },
+  {
+    "menu_name": "눈꽃 망고 빙수",
+    "category": "음식",
+    "sub_category": "눈꽃 빙수",
+    "price": 4000,
+    "image_file": "demo_menu.png"
+  },
+  {
+    "menu_name": "눈꽃 블루베리 빙수",
+    "category": "음식",
+    "sub_category": "눈꽃 빙수",
+    "price": 4500,
+    "image_file": "demo_menu.png"
+  },
+  {
+    "menu_name": "오리지널 떡볶이",
+    "category": "음식",
+    "sub_category": "간식",
+    "price": 5000,
+    "image_file": "demo_menu.png"
+  },
+  {
+    "menu_name": "로제 떡볶이",
+    "category": "음식",
+    "sub_category": "간식",
+    "price": 5500,
+    "image_file": "demo_menu.png"
+  },
+  {
+    "menu_name": "츄러스",
+    "category": "음식",
+    "sub_category": "간식",
+    "price": 3000,
+    "image_file": "demo_menu.png"
+  },
+  {
+    "menu_name": "소떡소떡",
+    "category": "음식",
+    "sub_category": "간식",
+    "price": 3500,
+    "image_file": "demo_menu.png"
+  },
+  {
+    "menu_name": "나쵸",
+    "category": "음식",
+    "sub_category": "간식",
+    "price": 4000,
+    "image_file": "demo_menu.png"
+  },
+  {
+    "menu_name": "새우 볶음밥",
+    "category": "음식",
+    "sub_category": "볶음밥",
+    "price": 4500,
+    "image_file": "demo_menu.png"
+  },
+  {
+    "menu_name": "김치 볶음밥",
+    "category": "음식",
+    "sub_category": "볶음밥",
+    "price": 5000,
+    "image_file": "demo_menu.png"
+  },
+  {
+    "menu_name": "소불고기 볶음밥",
+    "category": "음식",
+    "sub_category": "볶음밥",
+    "price": 5500,
+    "image_file": "demo_menu.png"
+  },
+  {
+    "menu_name": "케이준 감자튀김",
+    "category": "음식",
+    "sub_category": "간식",
+    "price": 3000,
+    "image_file": "demo_menu.png"
+  },
+  {
+    "menu_name": "갈릭디핑 감자튀김",
+    "category": "음식",
+    "sub_category": "간식",
+    "price": 3500,
+    "image_file": "demo_menu.png"
+  },
+  {
+    "menu_name": "치킨 너겟",
+    "category": "음식",
+    "sub_category": "간식",
+    "price": 4000,
+    "image_file": "demo_menu.png"
+  },
+  {
+    "menu_name": "팝콘 치킨",
+    "category": "음식",
+    "sub_category": "간식",
+    "price": 4500,
+    "image_file": "demo_menu.png"
+  },
+  {
+    "menu_name": "팝콘",
+    "category": "음식",
+    "sub_category": "간식",
+    "price": 5000,
+    "image_file": "demo_menu.png"
+  },
+  {
+    "menu_name": "진라면 매운맛",
+    "category": "음식",
+    "sub_category": "한강라면",
+    "price": 5500,
+    "image_file": "demo_menu.png"
+  },
+  {
+    "menu_name": "진라면 순한맛",
+    "category": "음식",
+    "sub_category": "한강라면",
+    "price": 3000,
+    "image_file": "demo_menu.png"
+  },
+  {
+    "menu_name": "짜파게티",
+    "category": "음식",
+    "sub_category": "한강라면",
+    "price": 3500,
+    "image_file": "demo_menu.png"
+  },
+  {
+    "menu_name": "까르보불닭",
+    "category": "음식",
+    "sub_category": "한강라면",
+    "price": 4000,
+    "image_file": "demo_menu.png"
+  }
+]
